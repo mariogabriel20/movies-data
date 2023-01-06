@@ -134,7 +134,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
 Future fetchMovies(String searchWord) async {
   final headers = {
-    "X-RapidAPI-Key": "a2940bae76mshb14242d98204789p1026fajsnd29b3cfec854",
+    "X-RapidAPI-Key": "APIKEY HERE",
     "X-RapidAPI-Host": "mdblist.p.rapidapi.com"
   };
 
